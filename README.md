@@ -15,7 +15,7 @@
 
 #
 
-<h1>The details element</h1>
+
 
 <details>
   
