@@ -20,5 +20,5 @@
 <details>
   
   <summary> Mandy's Coding Journey</summary>
-  <p><br>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</p>
+  <p><br>working on it....</p>
 </details>
