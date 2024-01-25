@@ -1,12 +1,12 @@
-# 🏎 MandyPeperoni 
+# 🏎 MandyPeperoni
 
 <code> Digital Craftsman (Software Engineering Student/USAF Reservist)</code>
 
 
-<p>👩‍💻 Hey, I'm Amanda, an Air Force Reserve cyber warrior by day and a game-chasing software engineer by night. 🚀 My code reflects the precision of military training blended with a passion for gaming innovation. When I'm not in the cyber trenches, you'll catch me enjoying the timeless delight of pepperoni. Let's code and conquer!🎮🍕</p>
+<p>👩‍💻 Hey, I'm Amanda, an Air Force Reserve cyber warrior by day and a game-chasing software engineering student by night. 🚀 My code reflects the precision of military training blended with a passion for gaming innovation. When I'm not in the cyber trenches, you'll catch me enjoying the timeless delight of pepperoni. Let's code and conquer!🎮🍕</p>
 <hr>
 
-# 🔧 Currently Learning (Languages/Tools) 🔧
+# 🔧Currently Learning (Languages/Tools)🔧
 
 
 
