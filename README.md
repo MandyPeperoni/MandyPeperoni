@@ -17,7 +17,7 @@
 
 #
 
-![Ama's GitHub stats](https://github-readme-stats.vercel.app/api?username=MandyPeperoni&show_icons=true&theme=chartreuse-dark)
+![MandyPeperoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=MandyPeperoni&show_icons=true&theme=chartreuse-dark)
 
 #
 
